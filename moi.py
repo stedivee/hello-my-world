@@ -1,0 +1,2 @@
+moi = "moimoi"
+print (moi)
